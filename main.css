@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.img-container {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
